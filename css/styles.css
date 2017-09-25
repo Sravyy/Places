@@ -1,0 +1,12 @@
+#show-destination {
+  display: none;
+}
+
+.dest1 {
+  cursor : pointer;
+  color : #0088cc;
+}
+
+.dest1:hover {
+  text-decoration : underline;
+}
